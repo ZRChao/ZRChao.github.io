@@ -1,4 +1,4 @@
-## Chao Zhou 周 超
+## 周 超 Chao Zhou
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
