@@ -1,4 +1,4 @@
-## Chao Zhou
+## Chao Zhou 周 超
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
@@ -20,9 +20,9 @@ Github: https://github.com/ZRChao
 ---
 
 ### Research 
-- Metagenomics and microbiome research\
-- Genome-wide association study (GWAS) based on the summary statistics \
-- Mendelian Randomization (MR) for casual inference\
+- Metagenomics and microbiome research
+- Genome-wide association study (GWAS) based on the summary statistics 
+- Mendelian Randomization (MR) for casual inference
 
 #### Publications
 
