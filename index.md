@@ -1,6 +1,7 @@
 ## Chao Zhou
+### Shanghai Jiao Tong University (SJTU)
 
-You can use the [editor on GitHub](https://github.com/ZRChao/ZRChao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). I have much interest in 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
