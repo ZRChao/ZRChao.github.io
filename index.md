@@ -49,7 +49,7 @@ I have developed and maintained softwares on my [GitHub page](https://github.com
 
 _<font size=3 color=black face=Corbel>Thanks to all the people I met along the way, I wish all of you will be treated with kindness by the world and accompanied by others with warmth!</font>_
 
-<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="260" height="260"/><font>The little prince and his roses</font>
+<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="260" height="260" align=center/><font>The little prince and his roses</font>
 
 _<font size=3 color=black face=Corbel>Life is a train that keeps moving forward. It is difficult for someone to accompany you from beginning to end. It comes to an end anytime, and wave goodbye gratefully, and finally wish myself closer to happiness!</font>_
 
