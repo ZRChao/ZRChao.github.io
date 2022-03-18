@@ -51,8 +51,7 @@ Thanks to all the people I met along the way, I wish all of you will be treated 
 Life is a train that keeps moving forward. It is difficult for someone to accompany you from beginning to end. It comes to an end anytime, and wave goodbye gratefully, and finally wish myself closer to happiness!
 </font>
 
-<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="300" height="220" align="center"/>
-<font color=blue>The little prince and his roses</font>
+<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="300" height="220" align="center"/><font color=blue>The little prince and his roses</font>
 
 
 
