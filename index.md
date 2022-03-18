@@ -2,7 +2,7 @@
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
-<img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="300" height="220" align="center"/><font>Study in Yale, 2019.11</font>
+<img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="280" height="220" align="center"/><font>Study in Yale, 2019.11</font>
 
 -----
 ### <font color=green>Contact</font>
@@ -46,7 +46,7 @@ I have developed and maintained softwares on my [GitHub page](https://github.com
 
 <font color=black face=Corbel>_Thanks to all the people I met along the way, I wish all of you will be treated with kindness by the world and accompanied by others with warmth!_ </font>
 
-<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="300" height="220" align="center"/><font>The little prince and his roses</font>
+<img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="280" height="220" align="center"/><font>The little prince and his roses</font>
 
 <font color=black face=Corbel>_Life is a train that keeps moving forward. It is difficult for someone to accompany you from beginning to end. It comes to an end anytime, and wave goodbye gratefully, and finally wish myself closer to happiness!_</font>
 
