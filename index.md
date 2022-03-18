@@ -2,7 +2,7 @@
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
-![](https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg)
+<img src="https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg" alt="Study in Yale" width="300" height="200" align="center" />
 
 -----
 **Contact**\
