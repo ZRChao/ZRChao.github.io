@@ -8,7 +8,7 @@ Study in Yale
 -----
 **Contact**\
 Mailing: Ye jiequan Building, Dongchuan Road 800, Shanghai\
-Email: <rchao.zhou@gmail.com>
+Email: <rchao.zhou@gmail.com>\
 Github: <https://github.com/ZRChao>
 
 -----
