@@ -6,7 +6,7 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 Study in Yale
 
 -----
-### <font color=#008000>Contact</font>
+### <font color=green>Contact</font>
 - Mailing: Ye jiequan Building, Dongchuan Road 800, Shanghai
 - Email: <rchao.zhou@gmail.com>
 - Github: <https://github.com/ZRChao>
