@@ -2,7 +2,7 @@
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
-<div align=left><img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="280" height="220" ></div><font>Study at Yale, 2019.11</font>
+<div><img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="280" height="220" ></div><font>Study at Yale, 2019.11</font>
 
 -----
 ### <font color=green>Contact</font>
@@ -24,6 +24,7 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 - Genome-wide association study (GWAS) based on the summary statistics 
 - Mendelian Randomization (MR) for casual inference
 
+---
 ### <font color=green>Publications</font> 
 
 1. **Zhou, C.**, Zhao, H., & Wang, T. (2021). Transformation and differential abundance analysis of microbiome data incorporating phylogeny. Bioinformatics, 37(24), 4652-4660.[[online](https://doi.org/10.1093/bioinformatics/btab543)][[R package](https://github.com/ZRChao/adaANCOM)]
@@ -33,6 +34,7 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 5. Zhang, C., **Zhou, C.**, et al. Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. (2021, Under review)
 6. Liu, T., **Zhou, C.**, et al. phyloMDA: An R package for phylogeny-aware microbiome data analysis. (2022, Under review)
 
+---
 ### <font color=green>Software</font>
 
 I have developed and maintained softwares on my [GitHub page](https://github.com/ZRChao).
@@ -42,11 +44,12 @@ I have developed and maintained softwares on my [GitHub page](https://github.com
 - [phyloMDA](https://github.com/liudoubletian/phyloMDA) An R package for phylogeny-aware microbiome data analysis
 - [phyloMAT](https://github.com/ZRChao/phyloMAT) An R package for analysis of compositions of microbiomes at the community level incorporating phylogenetic tree.
 
+---
 ### <font color=green>My PhD life</font>
 
 _<font size=3 color=black face=Corbel>Thanks to all the people I met along the way, I wish all of you will be treated with kindness by the world and accompanied by others with warmth!</font>_
 
-<div align=left><img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="260" height="260"></div> <font>The little prince and his roses</font>
+<div><img src="{{ 'WechatIMG638.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG638.jpeg }}" width="260" height="260"></div> <font>The little prince and his roses</font>
 
 _<font size=3 color=black face=Corbel>Life is a train that keeps moving forward. It is difficult for someone to accompany you from beginning to end. It comes to an end anytime, and wave goodbye gratefully, and finally wish myself closer to happiness!</font>_
 
