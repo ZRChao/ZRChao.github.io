@@ -6,7 +6,7 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 
 -----
 **Contact**\
-Mailing: Yejie Quan Building, Dongchuan Road 800, Shanghai\
+Mailing: Ye jiequan Building, Dongchuan Road 800, Shanghai\
 Email: rchao.zhou@gmail.com\
 Github: https://github.com/ZRChao
 
