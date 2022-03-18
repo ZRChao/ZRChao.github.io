@@ -2,8 +2,7 @@
 
 I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) joint superivised by [Prof. Tao Wang](https://sites.google.com/life.hkbu.edu.hk/neowangtao) and [Prof. Hongyu Zhao](http://zhaocenter.org). 
 
-<img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="300" height="220" align="center"/>
-<font color=blue>Study in Yale, 2019.11</font>
+<img src="{{ 'WechatIMG637.jpeg' | https://github.com/ZRChao/ZRChao.github.io/blob/main/WechatIMG637.jpeg }}" width="300" height="220" align="center"/><font color=blue>Study in Yale, 2019.11</font>
 
 -----
 ### <font color=green>Contact</font>
