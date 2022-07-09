@@ -28,11 +28,12 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 ### <font color=green>Publications</font> 
 
 1. **Zhou, C.**, Zhao, H., & Wang, T. (2021). Transformation and differential abundance analysis of microbiome data incorporating phylogeny. Bioinformatics, 37(24), 4652-4660.[[online](https://doi.org/10.1093/bioinformatics/btab543)][[R package](https://github.com/ZRChao/adaANCOM)]
-2. **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). fastANCOM: a fast method for analysis of compositions of microbiomes. Bioinformatics (btac060)[[online](https://doi.org/10.1093/bioinformatics/btac060)][[R package](https://github.com/ZRChao/fastANCOM)]
-3. Bai, J., Bruner, D. W., Fedirko, V., Beitler, J. J., **Zhou, C.**, Gu, J., ... & Xiao, C. (2020). Gut microbiome associated with the psychoneurological symptom cluster in patients with head and neck cancers. Cancers, 12(9), 2531.[[online](https://doi.org/10.3390/cancers12092531)]
-4. Xiao, C., Fedirko, V., Beitler, J., Bai, J., Peng, G., **Zhou, C.**, ... & Bruner, D. (2021). The role of the gut microbiome in cancer-related fatigue: Pilot study on epigenetic mechanisms. Supportive Care in Cancer, 29(6), 3173-3182.[[online](https://doi.org/10.1007/s00520-020-05820-3)]
-5. Zhang, C., **Zhou, C.**, et al. Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. (2021, Under review)
-6. Liu, T., **Zhou, C.**, et al. phyloMDA: An R package for phylogeny-aware microbiome data analysis. (2022, Under review)
+2. **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). fastANCOM: a fast method for analysis of compositions of microbiomes. Bioinformatics, 38(7), 2039-2041.[[online](https://doi.org/10.1093/bioinformatics/btac060)][[R package](https://github.com/ZRChao/fastANCOM)]
+3. Liu, T., **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). phyloMDA: an R package for phylogeny-aware microbiome data analysis. BMC bioinformatics, 23(1), 1-6.[[online](https://link.springer.com/content/pdf/10.1186/s12859-022-04744-5.pdf)]
+4. Bai, J., Bruner, D. W., Fedirko, V., Beitler, J. J., **Zhou, C.**, Gu, J., ... & Xiao, C. (2020). Gut microbiome associated with the psychoneurological symptom cluster in patients with head and neck cancers. Cancers, 12(9), 2531.[[online](https://doi.org/10.3390/cancers12092531)]
+5. Xiao, C., Fedirko, V., Beitler, J., Bai, J., Peng, G., **Zhou, C.**, ... & Bruner, D. (2021). The role of the gut microbiome in cancer-related fatigue: Pilot study on epigenetic mechanisms. Supportive Care in Cancer, 29(6), 3173-3182.[[online](https://doi.org/10.1007/s00520-020-05820-3)]
+6. Zhang, C., **Zhou, C.**, et al. Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. (2022, Under review)
+
 
 ---
 ### <font color=green>Software</font>
