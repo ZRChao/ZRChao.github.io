@@ -33,6 +33,7 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 4. Bai, J., Bruner, D. W., Fedirko, V., Beitler, J. J., **Zhou, C.**, Gu, J., ... & Xiao, C. (2020). Gut microbiome associated with the psychoneurological symptom cluster in patients with head and neck cancers. Cancers, 12(9), 2531.[[online](https://doi.org/10.3390/cancers12092531)]
 5. Xiao, C., Fedirko, V., Beitler, J., Bai, J., Peng, G., **Zhou, C.**, ... & Bruner, D. (2021). The role of the gut microbiome in cancer-related fatigue: Pilot study on epigenetic mechanisms. Supportive Care in Cancer, 29(6), 3173-3182.[[online](https://doi.org/10.1007/s00520-020-05820-3)]
 6. Zhang, C., **Zhou, C.**, et al. Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. (2022, Under review)
+7. Ren, Y., Kong, Y., Zhou, X., Genchev, G. Z., **Zhou, C.**, Zhao, H., & Lu, H. (2022). FVC as an adaptive and accurate method for filtering variants from popular NGS analysis pipelines. Communications Biology, 5(1), 1-9.[[online](https://www.nature.com/articles/s42003-022-03397-7)]
 
 
 ---
