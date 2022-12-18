@@ -27,13 +27,19 @@ I am a PhD candidate at [Shanghai Jiao Tong Univerity](https://www.sjtu.edu.cn) 
 ---
 ### <font color=green>Publications</font> 
 
-1. **Zhou, C.**, Zhao, H., & Wang, T. (2021). Transformation and differential abundance analysis of microbiome data incorporating phylogeny. Bioinformatics, 37(24), 4652-4660.[[online](https://doi.org/10.1093/bioinformatics/btab543)][[R package](https://github.com/ZRChao/adaANCOM)]
-2. **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). fastANCOM: a fast method for analysis of compositions of microbiomes. Bioinformatics, 38(7), 2039-2041.[[online](https://doi.org/10.1093/bioinformatics/btac060)][[R package](https://github.com/ZRChao/fastANCOM)]
-3. Liu, T., **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). phyloMDA: an R package for phylogeny-aware microbiome data analysis. BMC bioinformatics, 23(1), 1-6.[[online](https://link.springer.com/content/pdf/10.1186/s12859-022-04744-5.pdf)][[R package](https://github.com/liudoubletian/phyloMDA)]
-4. Bai, J., Bruner, D. W., Fedirko, V., Beitler, J. J., **Zhou, C.**, Gu, J., ... & Xiao, C. (2020). Gut microbiome associated with the psychoneurological symptom cluster in patients with head and neck cancers. Cancers, 12(9), 2531.[[online](https://doi.org/10.3390/cancers12092531)]
-5. Xiao, C., Fedirko, V., Beitler, J., Bai, J., Peng, G., **Zhou, C.**, ... & Bruner, D. (2021). The role of the gut microbiome in cancer-related fatigue: Pilot study on epigenetic mechanisms. Supportive Care in Cancer, 29(6), 3173-3182.[[online](https://doi.org/10.1007/s00520-020-05820-3)]
-6. Zhang, C., **Zhou, C.**, et al. Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. (2022, Under review)
+#### 2020 & 2021
+
+1. Bai, J., Bruner, D. W., Fedirko, V., Beitler, J. J., **Zhou, C.**, Gu, J., ... & Xiao, C. (2020). Gut microbiome associated with the psychoneurological symptom cluster in patients with head and neck cancers. Cancers, 12(9), 2531.[[online](https://doi.org/10.3390/cancers12092531)]
+2.  Xiao, C., Fedirko, V., Beitler, J., Bai, J., Peng, G., **Zhou, C.**, ... & Bruner, D. (2021). The role of the gut microbiome in cancer-related fatigue: Pilot study on epigenetic mechanisms. Supportive Care in Cancer, 29(6), 3173-3182.[[online](https://doi.org/10.1007/s00520-020-05820-3)]
+3. **Zhou, C.**, Zhao, H., & Wang, T. (2021). Transformation and differential abundance analysis of microbiome data incorporating phylogeny. Bioinformatics, 37(24), 4652-4660.[[online](https://doi.org/10.1093/bioinformatics/btab543)][[R package](https://github.com/ZRChao/adaANCOM)]
+
+#### 2022
+4. **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). fastANCOM: a fast method for analysis of compositions of microbiomes. Bioinformatics, 38(7), 2039-2041.[[online](https://doi.org/10.1093/bioinformatics/btac060)][[R package](https://github.com/ZRChao/fastANCOM)]
+5. Liu, T., **Zhou, C.**, Wang, H., Zhao, H., & Wang, T. (2022). phyloMDA: an R package for phylogeny-aware microbiome data analysis. BMC bioinformatics, 23(1), 1-6.[[online](https://link.springer.com/content/pdf/10.1186/s12859-022-04744-5.pdf)][[R package](https://github.com/liudoubletian/phyloMDA)]
+6. Zhang, C., **Zhou, C.**, et al. (2022). Transmission risk of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis. Infectious Medicine (In press). [[online](https://www.sciencedirect.com/science/article/pii/S2772431X22000715)]
 7. Ren, Y., Kong, Y., Zhou, X., Genchev, G. Z., **Zhou, C.**, Zhao, H., & Lu, H. (2022). FVC as an adaptive and accurate method for filtering variants from popular NGS analysis pipelines. Communications Biology, 5(1), 1-9.[[online](https://www.nature.com/articles/s42003-022-03397-7)]
+8. Deng L, Li P, Zhang X, Jiang Q, Turner D, **Zhou C**, Gao Y, Qian F, Zhang C, Lu H, Zou H, Vermund SH, Qian HZ. Risk of SARS-CoV-2 reinfection: a systematic review and meta-analysis. Sci Rep. 2022 Dec 1;12(1):20763. doi: 10.1038/s41598-022-24220-7. PMID: 36456577; PMCID: PMC9714387.[[online](https://www.nature.com/articles/s41598-022-24220-7)]
+9. Liang W, **Zhou C**, Wang J, Zhao J, Liu F, Wang G, Xu C, Zhang Y, Wang W, Cai S, Han Y, Chang L, Zhang P. (2022) A prognostic signature based on adenosine metabolism related genes for ovarian cancer. Front Oncol. 2022 Nov 28;12:1003512. doi: 10.3389/fonc.2022.1003512. PMID: 36518306; PMCID: PMC9742553.
 
 
 ---
